@@ -1,6 +1,7 @@
 # The DOM Challenge
 
 Devkode is coming up with a weekly hackathon, **#TheDOMChallenge** <br />
+*It is the best way of being always grounded and close to fundamental skill set of Frontend Web devlopment domain.* <br>
 It's a 60-90 minutes online weekly challenge related to frontend development consisting of
 industrial level machine round questions.
 
